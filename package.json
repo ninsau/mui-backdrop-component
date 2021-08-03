@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ninsau/react-pagination-component.git"
+    "url": "git+https://github.com/ninsau/mui-backdrop-component.git"
   },
   "keywords": [
     "react backdrop",
@@ -38,7 +38,7 @@
     "react-dom": "^17.0.2"
   },
   "bugs": {
-    "url": "https://github.com/ninsau/react-pagination-component/issues"
+    "url": "https://github.com/ninsau/mui-backdrop-component/issues"
   },
-  "homepage": "https://github.com/ninsau/react-pagination-component#readme"
+  "homepage": "https://github.com/ninsau/mui-backdrop-component#readme"
 }
