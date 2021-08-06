@@ -26,3 +26,17 @@ import { BackdropComponent } from 'material-ui-backdrop-component'
 ```
 <BackdropComponent />
 ```
+
+### 4. Sample code
+
+```
+import BackdropComponent from "material-ui-backdrop-component";
+
+export default function App() {
+  return (
+    <>
+      <BackdropComponent />
+    </>
+  );
+}
+```
